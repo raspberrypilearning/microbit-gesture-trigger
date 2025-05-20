@@ -9,3 +9,4 @@ input.onGesture(Gesture.Shake, function () {
 Hier zijn de gebaren die je kunt gebruiken.
 
 <img src="images/gestures.png" alt="The gestures menu showing eleven gestures to choose from." width="300"/>
+
