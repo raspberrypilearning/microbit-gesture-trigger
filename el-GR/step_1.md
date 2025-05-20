@@ -9,3 +9,4 @@ input.onGesture(Gesture.Shake, function () {
 Αυτές είναι οι χειρονομίες που μπορείς να χρησιμοποιήσεις.
 
 <img src="images/gestures.png" alt="The gestures menu showing eleven gestures to choose from." width="300"/>
+
