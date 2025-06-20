@@ -1,4 +1,4 @@
-You can find the `on shake`{:class='microbitinput'} block in the `Input`{:class='microbitinput'} menu in your Toolbox.
+Tu peux trouver le bloc `secouer`{:class='microbitinput'} dans le menu `Entrée`{:class='microbitinput'} dans ta boîte à outils.
 
 ```microbit
 input.onGesture(Gesture.Shake, function () {
@@ -6,7 +6,7 @@ input.onGesture(Gesture.Shake, function () {
 })
 ```
 
-Here are the gestures you can use.
+Voici les gestes que tu peux utiliser.
 
 <img src="images/gestures.png" alt="The gestures menu showing eleven gestures to choose from." width="300"/>
 
